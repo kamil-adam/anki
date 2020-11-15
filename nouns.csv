@@ -11,7 +11,10 @@ a bell,dzwonek
 a bend,zakręt
 a bin,kosz
 a blich,wybielacz
+a blood count,morfologia krwi
+a blood test,badanie krwi
 a blood,krew
+a bloodwork,morfologia krwi
 a board,plansza
 a boarding school,internat
 a bone,kość
@@ -45,6 +48,7 @@ a climber,wspinacz
 a climbing,wspinaczka
 a colleague,kolega z pracy
 a commuter,dojeżdżający
+a competence,kompetencja
 a complaint,skarga
 a contest / a competition,konkurs
 a continental blockade,blokada kontynentalna
@@ -60,6 +64,7 @@ a cure,lekarstwo
 a currency,waluta
 a dandruff shampoo,szampon przeciwłupieżowy
 a dandruff,łupież
+a dare,wyzwanie
 a desert island,bezludna wyspa
 a desert,pustynia
 a dessert,deser
@@ -102,6 +107,7 @@ a gang,banda
 a garden - flowers and stuff!,ogód - kwiaty i takie tam
 a gathering,zebranie
 a ghostwriter, Autor widmo
+a gorge,wąwóz
 a grooming,pielegnacja
 a grunt,chrząknięcie
 a guest,gość
@@ -124,11 +130,15 @@ a hummingbird,koliber
 a hurdler,płotkarz
 a hurt,ból
 a intermition,przerwa
+a janitor / a custodian,dozorca
 a jelly,galaretka
 a jellyfish,meduza
 a jewellery,biżuteria
 a kayak / a canoe,kajak
+a kidney failure,niewydolność nerek
+a kindred spirit,pokrewny duch
 a kitchen,kuchnia
+a lacuna,luka
 a lane,pas drogowy
 a law,ustawa
 a lawn - just grass,trawnik - tylko trawa
@@ -137,14 +147,17 @@ a legume plant,roślina strączkowa
 a lemon balm,melisa
 a lender,pożyczający
 a lesson,lekcja
+a light bubl,żarówka
 a limb,kończyna
 a litlle bit,trochę
 a living room,salon
 a lizard,jaszczurka
 a loan,pożyczka
+a logical fallacy,błąd logiczny
 a lot of / plenty of,dużo
 a lot,dużo
 a lying,kłamstwo
+a maiden name,nazwisko panieński
 a mammal,ssak
 a mandate,mandat
 a mate,kumpel
@@ -171,17 +184,21 @@ a occupation,zawód
 a opportunity,szansa / możliwość
 a paddle,wiosło do kajaku
 a page,strona
+a parenthesis,nawias
 a patience,cierpliwość
 a pavement,bruk
 a peeler,przyrząd do obierania
+a pellet gun,pistolet śrutowy
 a penalty,kara
 a performance,przedstawienie
 a permission,pozwolenie
+a perverseness,upór
 a pickpocket,kieszonkowiec
 a piece of advice,rada
 a pile,stos
 a pill,tabletka
 a pimple,przysz
+a pinpoint,punkt / koniec szpilki
 a plant,roślina
 a plasibo,placebo
 a platform,platforma
@@ -198,6 +215,7 @@ a probationary period,okres próbny
 a protein,białko
 a protozoa,pierwotniak
 a puberty,pokwitanie
+a pun,gra słow
 a puzzle,zagadka
 a quitting,żucanie palenia
 a reason,powód
@@ -208,6 +226,7 @@ a recovering,odzyskanie
 a recovery,poprawa
 a relative,krewny
 a relief,ulga
+a renal failure,niewydolność nerek
 a reptile house,terrarium
 a reptile,gad
 a requirement,wymaganie
@@ -241,6 +260,7 @@ a shooting,strzelanie
 a shrew,ryjówka
 a skill,umiejętność
 a snail,ślimak
+a solitude,samotność
 a space,kosmos / przestrzeń
 a spacecraft / a spaceship,statek kosmiczny
 a speech,przemowa
@@ -274,9 +294,11 @@ a tide,fala/pływ
 a tie,wiązanie
 a tile,dachówka
 a tire,opona
+a toad,ropucha
 a tortoise,żółw wodny
 a tractor,traktor
 a training,szkolenie
+a treadmill,bieżnia
 a trouble,kłopot
 a troublemaker,producent kłopotów / mąciwoda / wichrzyciel
 a troubleshooting,rozwiązywanie problemów
@@ -300,6 +322,7 @@ a waste,marnotrawstwo
 a way, sposób
 a wing,skrzydło
 a wish,życzenie
+a wood burning stove,piec opalany drewnem
 a wormwood,piołun
 a yard - all of the land,ogróde - cała ziemia
 a yard sale,wyprzedaż ogródkowa
@@ -317,6 +340,7 @@ an aim,cel
 an allowance,dodatek
 an almond,migdał
 an amazement,zdumienie
+an anemia,anemia
 an anti-dandruff shampoo,szampon przeciwłupieżowy
 an antibiotic,antybiotyk
 an appointment,spotkanie
@@ -332,6 +356,7 @@ an equivalent,ekwiwalent
 an evidence,dowód
 an excuse,wymówka
 an improvement,poprawa
+an incentive,zachęta
 an income,dochód
 an ingredient,składnik
 an insincerity,nieszczerość
@@ -346,41 +371,22 @@ an opinion,opinia
 an order,zakon
 an ostrich,struś
 an outbreak,wybuch
+an urine test,badanie moczu
 bandage contact lenses,bandażowe soczewki kontaktowe
 barley,jęczmień
 bins,pojemniki
 boiled peanut,gotowane orzeszko ziemne
+bullet points,wypunktowanie
 buttocks,posladki
 cereal,zboże
 creature,istota / stworzenie
 elections,wybory
+factorial,silnia
 independence march,marsz niepodległości
 moldy grapes,spleśniałe winogrona
 nationalists,narodowcy
 nobility,magnateria
 oat,owies
+quintuplets,pięcioraczki
 south,południe
 stock options,opcje na akcje
-a blood count,morfologia krwi
-a blood test,badanie krwi
-a bloodwork,morfologia krwi
-a competence,kompetencja
-a dare,wyzwanie
-a gorge,wąwóz
-a kidney failure,niewydolność nerek
-a kindred spirit,pokrewny duch
-a lacuna,luka
-a light bubl,żarówka
-a maiden name,nazwisko panieński
-a parenthesis,nawias
-a pellet gun,pistolet śrutowy
-a pinpoint,punkt / koniec szpilki
-a pun,gra słow
-a renal failure,niewydolność nerek
-a solitude,samotność
-a toad,ropucha
-a treadmill,bieżnia
-a wood burning stove,piec opalany drewnem
-an anemia,anemia
-an incentive,zachęta
-an urine test,badanie moczu
