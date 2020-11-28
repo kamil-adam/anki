@@ -15,6 +15,7 @@ Thanksgiving,Święto Dziękczynienia
 Ukraine,Ukraina
 a ballet,balet
 a bandage,bandaż
+a barbarian,barbażyńca
 a barrel,beczka
 a beetle,chrząszcz
 a behavior,zachowanie
@@ -26,6 +27,7 @@ a blood count,morfologia krwi
 a blood test,badanie krwi
 a blood,krew
 a bloodwork,morfologia krwi
+a board game,gra planszowa
 a board,plansza
 a boarding school,internat
 a bone,kość
@@ -34,6 +36,7 @@ a border,granica
 a boutique,butik
 a bowl,miska
 a brake,hamulec
+a branch,filia
 a breakfast,śniadanie
 a breath,oddech
 a breed,rasa
@@ -46,6 +49,7 @@ a capital,stolica
 a carbohydrate,węglowodan
 a cave,jaskinia
 a ceiling,sufit
+a celebrity,celebryta
 a censorship,cenzura
 a century, wiek
 a cerebral palsy,porażenie mózgowe
@@ -63,15 +67,17 @@ a climber,wspinacz
 a climbing,wspinaczka
 a clothing storesklep odzieżowy
 a colleague,kolega z pracy
+a community,gmina
 a commuter,dojeżdżający
 a competence,kompetencja
+a competition,konkurs
 a complaint,skarga
 a contest,konkurs
-a competition,konkurs
 a continental blockade,blokada kontynentalna
 a contract,kontrakt
 a contraction,skurcz
 a contractor,kontrahent
+a cook,kucharz
 a countryside,wieś
 a countryside,wieś
 a courier,kurier
@@ -101,14 +107,15 @@ a drawer,szuflada
 a drawing,rysunek
 a duel,pojedynek
 a dueling,pojedynkowanie
+a dwarf,karzeł / krasnolud
 a exercise,ćwiczenie
 a experience,doświadczenie
 a fad,chwilowa moda
 a fairy tale,baśń
 a fall,spadek / upadek / jesień
 a fare,opłata
-a fee,opłata
 a favour,przysługa
+a fee,opłata
 a feeling,uczucie
 a fence,ogrodzenie
 a fibre,błonnik
@@ -117,6 +124,7 @@ a fin,płetwa
 a flare,raca
 a flavor,smak
 a flavoring,przyprawa
+a forbidden desert,zakazana pustynia
 a forest,las
 a forestry,leśnictwo
 a freight train,pociąg towarowy
@@ -162,6 +170,7 @@ a kidney failure,niewydolność nerek
 a kindred spirit,pokrewny duch
 a kitchen,kuchnia
 a lacuna,luka
+a lake,jezioro
 a lane,pas drogowy
 a law,ustawa
 a lawn - just grass,trawnik - tylko trawa
@@ -189,6 +198,7 @@ a meat, mięso
 a merchant,kupiec
 a might,moc
 a millionaire,milioner
+a monastery,konwent
 a monk,mnich
 a mortality,śmiertelność
 a mortgage,kredyt hipoteczny
@@ -215,7 +225,7 @@ a pellet gun,pistolet śrutowy
 a penalty,kara
 a perfect pitch,słuch absolutny
 a performance,przedstawienie
-aperk,profit
+a perk,profit
 a permission,pozwolenie
 a perverseness,upór
 a pickpocket,kieszonkowiec
@@ -233,16 +243,20 @@ a point from,poza
 a poisoning,zatrucie
 a possession,posiadanie
 a post,post
+a premiere,premiera
 a pressure,nacisk
 a prize / an award,nagroda
 a probation,staż
 a probationary period,okres próbny
+a prohibition,zakaz
 a protein,białko
 a protozoa,pierwotniak
 a puberty,pokwitanie
 a pun,gra słow
 a puzzle,zagadka
 a quitting,żucanie palenia
+a quotation,cytat
+a rationalist,racjonalista
 a reason,powód
 a recession,recesja
 a recipe,przepis
@@ -258,21 +272,25 @@ a requirement,wymaganie
 a research,badania
 a research,badania naukowe
 a responsibility,obowiązek
+a resume,cv
 a retail,sprzedarz
 a retirement age,wiek emerytalny
 a retirement home,dom starców
 a retirement plan,plan emerytalny
 a retreat,odosobnienie
+a reverend,wielebny
 a righteousness,prawość
 a rise,wzrost
 a rise,wzrost
 a rivalry,rywalizacja
 a roof,dach
 a root,korzeń
+a round,tura
 a rude boy,niegrzeczny chłopiec
 a rudeness,grubiaństwo
 a sale,sprzedaż
 a salmon,łosoś
+a sandstorm,burza piaskowa
 a sauna,sauka
 a scan,skan
 a scarecrow,strach na wróble
@@ -282,11 +300,14 @@ a seat belt,pas bezpieczeństwa
 a security,bezpieczeństwo
 a sedative,środek uspokajający
 a series,seria
+a settler,osadnik
 a shelter,schron
 a shit storm,gównoburza
 a shooter,strzelec
 a shooting,strzelanie
 a shrew,ryjówka
+a singer,piosenkarz
+a skeleton,szkielet
 a skill,umiejętność
 a snail,ślimak
 a solitude,samotność
@@ -294,9 +315,11 @@ a space,kosmos / przestrzeń
 a spacecraft,statek kosmiczny
 a spaceship,statek kosmiczny
 a speech,przemowa
+a splendor,splendor
 a stage,scena
 a staircase,klatka schodowa
 a starter,przystawka
+a stereotype,stereotyp
 a still life,martwa natura
 a stillness,spokój
 a stoic calm,stoicki spokój
@@ -309,7 +332,7 @@ a stuffocation,zbieractwo (choroba)
 a sudden death,nagła śmierć
 a sugar,cukier
 a support,wsparcie
-a surgery,chirurgia
+a surgery,chirurgia / operacja / pokój przyjęć
 a swallow,łyk
 a syringe,skrzykawka
 a tear,łza
@@ -320,6 +343,7 @@ a tenderness,czułość
 a tent,namiot
 a text message,sms
 a thief,złodziej
+a things storage, magazyn rzeczy
 a tide,fala/pływ
 a tie,wiązanie
 a tile,dachówka
@@ -348,6 +372,7 @@ a vegetable oil,olej roślinny
 a vegetable soup,zupa warzywna
 a vegetable,warzywo
 a victom,ofiara
+a view,pogląd
 a village,wioska
 a vowel,samogłoska
 a waiter,kelner
@@ -391,14 +416,18 @@ an approach,podejście
 an audience,publiczność
 an avalanche,lawina
 an election silence,cisza wyborcza
+an element,żywioł
 an elevator,winda
 an embassy,ambasada
 an emergency,nagły wypadek
+an emergency,pogotowie / nagły wypadek
 an equalizer,wyrównywać
 an equivalent,ekwiwalent
 an evidence,dowód
 an excuse,wymówka
 an explanation,wytłumaczenie
+an explorer,odkrywca
+an extra,statysta
 an ideogram,ideogram
 an improvement,poprawa
 an incentive,zachęta
@@ -414,6 +443,7 @@ an inventory,inwentarz
 an occurrence,występowanie
 an opinion,opinia
 an order,zakon
+an order,ład
 an ostrich,struś
 an outbreak,wybuch
 an uprising,powstanie (zbrojne)
@@ -440,6 +470,7 @@ rare rocks,rzadkie skały
 rows,wiosła
 sales,obroty
 salesman,sprzedawca
+seven Wonders of the World,siedem cudów świata
 south,południe
 stock options,opcje na akcje
 stripes,paski
