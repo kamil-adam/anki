@@ -168,13 +168,15 @@ a hummingbird,koliber
 a hurdler,płotkarz
 a hurt,ból
 a intermition,przerwa
-a janitor / a custodian,dozorca
+a janitor,dozorca
+a custodian,dozorca
 a jelly,galaretka
 a jellyfish,meduza
 a jewellery,biżuteria
 a jewelry,biżuteria
 a joint,staw (kolanowy / łokciowy)
-a kayak / a canoe,kajak
+a kayak,kajak
+a canoe,kajak
 a kidney failure,niewydolność nerek
 a kindred spirit,pokrewny duch
 a kitchen,kuchnia
@@ -255,7 +257,8 @@ a possession,posiadanie
 a post,post
 a premiere,premiera
 a pressure,nacisk
-a prize / an award,nagroda
+a prize,nagroda
+an award,nagroda
 a probation,staż
 a probationary period,okres próbny
 a prohibition,zakaz
