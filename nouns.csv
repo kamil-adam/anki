@@ -1,7 +1,10 @@
 All Saints' Day,Dzień Wszystkich Świętych
 Belarus,Białoruś
 Belarus,Białoruś
+Brussels,Bruksela
 Czech,Czechy
+Epiphany, Objrawienie Pańskie
+February,luty
 Greece,Grecja
 Independence Day,święto niepodległości
 Lithuanian,Litwa
@@ -17,6 +20,7 @@ a ballet,balet
 a bandage,bandaż
 a barbarian,barbażyńca
 a barrel,beczka
+a bauble,bombka
 a beck,skinąć
 a beetle,chrząszcz
 a behavior,zachowanie
@@ -31,6 +35,7 @@ a bloodwork,morfologia krwi
 a board game,gra planszowa
 a board,plansza
 a boarding school,internat
+a bolt, sruba
 a bone,kość
 a bookstore,księgarnia
 a border,granica
@@ -46,6 +51,7 @@ a bursting,pęknięcie
 a buttock,pośladek
 a by-pass,obwodnica
 a candle,znicz
+a canoe,kajak
 a capital,stolica
 a carbohydrate,węglowodan
 a cave,jaskinia
@@ -55,6 +61,7 @@ a censorship,cenzura
 a century, wiek
 a cerebral palsy,porażenie mózgowe
 a chain mail,kolczuga
+a chance,szansa
 a charge,opłata
 a charm,urok
 a chase,pościg
@@ -63,6 +70,7 @@ a cheque,czek
 a cherry,wiśnia
 a childhood,dzieciństwo
 a chronicle, kronika
+a church,kościół
 a classmate,kolega z pracy
 a climber,wspinacz
 a climbing,wspinaczka
@@ -81,17 +89,24 @@ a contract,kontrakt
 a contraction,skurcz
 a contractor,kontrahent
 a cook,kucharz
+a copper,miedź
 a countryside,wieś
 a countryside,wieś
 a courier,kurier
+a courier,kurier
 a court,sąd
 a court,sąd
+a crochet hook, szydełko
 a cuisine,kuchnia
 a cure,lekarstwo
 a currency,waluta
+a custodian,dozorca
 a dandruff shampoo,szampon przeciwłupieżowy
 a dandruff,łupież
 a dare,wyzwanie
+a deception,oszustwo
+a demand,żadanie
+a den, legowisko
 a desert island,bezludna wyspa
 a desert,pustynia
 a dessert,deser
@@ -114,23 +129,26 @@ a drawing,rysunek
 a duel,pojedynek
 a dueling,pojedynkowanie
 a dwarf,karzeł / krasnolud
-an exercise,ćwiczenie
-an experience,doświadczenie
+a dye,barwnik
 a fad,chwilowa moda
 a fairy tale,baśń
 a fall,spadek / upadek / jesień
 a fare,opłata
+a fasting meal,postny posiłek
 a favour,przysługa
 a fee,opłata
 a feeling,uczucie
+a felony,przestępstwo
 a fence,ogrodzenie
 a fibre,błonnik
 a fight,walka
 a fin,płetwa
 a fine,mandat
+a firework,sztuczne ognie
 a flare,raca
 a flavor,smak
 a flavoring,przyprawa
+a flu shot,szczepionka przeciw grypie
 a forbidden desert,zakazana pustynia
 a forest,las
 a forestry,leśnictwo
@@ -154,6 +172,7 @@ a hall,hol
 a happiness,szczęście
 a harm,szkoda
 a hassle,kłopot
+a herd,stado
 a high school,liceum
 a hint,wskazówka
 a hitchhiking,autostop
@@ -163,23 +182,24 @@ a honorific,zwrot grzecznościowy / tytuł grzecznościowy
 a hood,kaptur
 a hoodie,bluza z kapturem
 a host,gospodarz
+a host,gospodarz
 a housework,prace domowe (sprzątanie)
 a hummingbird,koliber
 a hurdler,płotkarz
 a hurt,ból
+a hypocrite,hipokryta
 a intermition,przerwa
 a janitor,dozorca
-a custodian,dozorca
 a jelly,galaretka
 a jellyfish,meduza
 a jewellery,biżuteria
 a jewelry,biżuteria
 a joint,staw (kolanowy / łokciowy)
 a kayak,kajak
-a canoe,kajak
 a kidney failure,niewydolność nerek
 a kindred spirit,pokrewny duch
 a kitchen,kuchnia
+a lace,koronka
 a lacuna,luka
 a lake,jezioro
 a lane,pas drogowy
@@ -192,23 +212,30 @@ a lender,pożyczający
 a lesson,lekcja
 a light bubl,żarówka
 a limb,kończyna
+a lion roars,lew ryczy
 a living room,salon
 a lizard,jaszczurka
 a loan,pożyczka
 a logical fallacy,błąd logiczny
+a lorry,ciężarówka
+a loud noise,głośny hałas
 a lying,kłamstwo
 a maiden name,nazwisko panieński
 a mammal,ssak
 a mandate,mandat
+a mason,murarz
 a mate,kumpel
 a maternity leave,urlop macierzyński
 a mattress,materac
 a meal,posiłek
 a measurement,pomiar
 a meat, mięso
+a medicine,lek
 a merchant,kupiec
 a might,moc
 a millionaire,milioner
+a misdemeanor,wykroczenie
+a mob,tłum
 a monastery,konwent
 a monk,mnich
 a mortality,śmiertelność
@@ -218,6 +245,8 @@ a mussel,małża
 a neighbor,sąsiad
 a neighbor,sąsiad
 a neighborhood,sąsiedztwo
+a net,satka
+a new yer's eve,sylwester
 a noise,hałas
 a notebook,notes
 a number of businesses in same building,kilka firm w tym samym bydynku
@@ -226,8 +255,10 @@ a nutrition,pożywienie
 a nutritionist,specjalista od żywienia
 a occupation,zawód
 a opportunity,szansa / możliwość
+a pack,wataha
 a paddle,wiosło do kajaku
 a page,strona
+a parcel locker,paczkomat
 a parenthesis,nawias
 a patience,cierpliwość
 a pavement,bruk
@@ -240,6 +271,7 @@ a performance,przedstawienie
 a perk,profit
 a permission,pozwolenie
 a perverseness,upór
+a phase,faza
 a pickpocket,kieszonkowiec
 a piece of advice,rada
 a pile,stos
@@ -254,11 +286,12 @@ a pod,strąk
 a point from,poza
 a poisoning,zatrucie
 a possession,posiadanie
+a post office, poczta
 a post,post
+a pre-chrismas fair,jarmark przedświąteczny
 a premiere,premiera
 a pressure,nacisk
 a prize,nagroda
-an award,nagroda
 a probation,staż
 a probationary period,okres próbny
 a prohibition,zakaz
@@ -278,6 +311,8 @@ a recipe,przepis
 a recording,nagranie
 a recovering,odzyskanie
 a recovery,poprawa
+a reindeer,renifer
+a relapse,recydywa
 a relative,krewny
 a relief,ulga
 a renal failure,niewydolność nerek
@@ -294,16 +329,20 @@ a retirement age,wiek emerytalny
 a retirement home,dom starców
 a retirement plan,plan emerytalny
 a retreat,odosobnienie
+a return address,adres zwrotny
 a reverend,wielebny
 a righteousness,prawość
 a rise,wzrost
 a rise,wzrost
 a rivalry,rywalizacja
+a roaring,ryk
 a roof,dach
 a root,korzeń
 a round,tura
+a round,tura
 a rude boy,niegrzeczny chłopiec
 a rudeness,grubiaństwo
+a rumor,plotka
 a sale,sprzedaż
 a salmon,łosoś
 a sandstorm,burza piaskowa
@@ -325,6 +364,7 @@ a shit storm,gównoburza
 a shooter,strzelec
 a shooting,strzelanie
 a shrew,ryjówka
+a singer,piosenkarka
 a singer,piosenkarz
 a skeleton,szkielet
 a skill,umiejętność
@@ -365,6 +405,7 @@ a tenderness,czułość
 a tent,namiot
 a text message,sms
 a thief,złodziej
+a thief,złodziej
 a things storage, magazyn rzeczy
 a tide,fala/pływ
 a tie,wiązanie
@@ -375,16 +416,17 @@ a tortoise,żółw wodny
 a tractor,traktor
 a training,szkolenie
 a treadmill,bieżnia
+a treasure,skarb
 a trouble,kłopot
 a troublemaker,producent kłopotów / mąciwoda / wichrzyciel
 a troubleshooting,rozwiązywanie problemów
 a troupe,trupa
 a troupe,trupa (teatralna)
 a truck,ciężarówka
-a lorry,ciężarówka
 a trunk,bagażnik / kufer
 a tsar,car
 a turtle,żółw lądowy
+a type,gatunek
 a undercover cop,tajniak (policjant)
 a vaccination,szczepienie
 a vaccine,szczepionka
@@ -399,18 +441,22 @@ a view,pogląd
 a village,wioska
 a vowel,samogłoska
 a vowel,samogłoska
+a wafer,opłatek
 a waiter,kelner
 a waitress,kelnerka
 a walkthrough,przewodnik / instruktaż
+a wardrobe,szafa
 a wardrobe,szafa
 a warehouse,magazyn
 a waste,marnotrawstwo
 a way, sposób
 a weaponizing,uzbrojenie
+a weed,chwast (marichuana)
 a whirl,wir "Leaves whirled in eddies of winel"
 a wide range,szaroki zasięg
 a wing,skrzydło
 a wish,życzenie
+a witchcraft,czary
 a wood burning stove,piec opalany drewnem
 a wormwood,piołun
 a yard - all of the land,ogróde - cała ziemia
@@ -441,6 +487,7 @@ an appointment,spotkaniec
 an approach,podejście
 an audience,publiczność
 an avalanche,lawina
+an award,nagroda
 an eddy,wir "Leaves whirled in eddies of winel"
 an elation,podniecenie
 an election silence,cisza wyborcza
@@ -449,11 +496,14 @@ an elevator,winda
 an embassy,ambasada
 an emergency,nagły wypadek
 an emergency,pogotowie / nagły wypadek
+an envelope,koperta
 an equalizer,wyrównywacz
 an equity,kapitał
 an equivalent,ekwiwalent
 an evidence,dowód
 an excuse,wymówka
+an exercise,ćwiczenie
+an experience,doświadczenie
 an explanation,wytłumaczenie
 an explorer,odkrywca
 an extra,statysta
@@ -469,6 +519,7 @@ an intuition,intuicja
 an invention,wynalazek
 an inventory,inwentarz
 an occurrence,występowanie
+an opinion,opinia
 an opinion,opinia
 an order,zakon
 an order,ład
