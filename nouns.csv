@@ -22,6 +22,7 @@ a bolt, sruba
 a bone,kość
 a bookstore,księgarnia
 a border,granica
+a border,granica
 a boutique,butik
 a bowl,miska
 a brake,hamulec
@@ -34,13 +35,16 @@ a brutalist style,styl brutalistyczny
 a building,budowa
 a bull market, hossa
 a bunny,królik (słodki)
+a burglary,włamanie
 a burst,rozerwanie
 a bursting,pęknięcie
+a business apartment,mieszkanie służbowe
 a buttock,pośladek
 a by-pass,obwodnica
 a cabbage,kapusta
 a cabriolet,kabriolet
 a calm,spokojny
+a campus,kampus
 a candle,znicz
 a cannon,armata
 a canoe,kajak
@@ -55,6 +59,7 @@ a cave,jaskinia
 a ceiling,sufit
 a celebrity,celebryta
 a censorship,cenzura
+a centralization,centralizacja
 a century, wiek
 a cerebral palsy,porażenie mózgowe
 a certainty,pewność
@@ -68,8 +73,10 @@ a cheque,czek
 a cheque book,książeczka czekowa
 a cherry,wiśnia
 a childhood,dzieciństwo
+a chimney,komin
 a chronicle, kronika
 a church,kościół
+a circulatory system,układ krwionośny
 a classmate,kolega z pracy
 a climber,wspinacz
 a climbing,wspinaczka
@@ -112,6 +119,7 @@ a deception,oszustwo
 a demand,żadanie
 a den, legowisko
 a den,melina
+a department,wydział
 a desert,pustynia
 a desert island,bezludna wyspa
 a dessert,deser
@@ -144,6 +152,7 @@ a fad,chwilowa moda
 a fairy tale,baśń
 a fall,spadek / upadek / jesień
 a fare,opłata
+a farmer,rolnik
 a fasting meal,posiłek na czczo
 a fasting meal,postny posiłek
 a favour,przysługa
@@ -155,6 +164,7 @@ a fibre,błonnik
 a fight,walka
 a fin,płetwa
 a fine,mandat
+a finite number of students,skończona liczba studentów
 a firework,sztuczne ognie
 a flare,raca
 a flavor,smak
@@ -176,6 +186,7 @@ a gang,banda
 a garden - flowers and stuff!,ogód - kwiaty i takie tam
 a garden gnome,krasnal ogrodowy
 a gathering,zebranie
+a geology,geologia
 a ghostwriter, Autor widmo
 a good problem to have -,dobry problem -
 a gorge,wąwóz
@@ -212,6 +223,7 @@ a intermition,przerwa
 a janitor,dozorca
 a jelly,galaretka
 a jellyfish,meduza
+a Jesuit,jezuici
 a jewellery,biżuteria
 a jewelry,biżuteria
 a joint,staw (kolanowy / łokciowy)
@@ -229,6 +241,7 @@ a law,ustawa
 a lawn - just grass,trawnik - tylko trawa
 a layman,laik
 a lecture,wykład
+a ledger,księga główna / rejestr
 a left,lewica
 a legume plant,roślina strączkowa
 a lemon balm,melisa
@@ -244,7 +257,9 @@ a logical fallacy,błąd logiczny
 a lorry,ciężarówka
 a loss,strata
 a loud noise,głośny hałas
+a lunette,luneta
 a lying,kłamstwo
+a mages tower,wieża magów
 a maiden name,nazwisko panieński
 a mammal,ssak
 a mandate,mandat
@@ -271,6 +286,7 @@ a monk,mnich
 a monument,zabytek
 a mortality,śmiertelność
 a mortgage,kredyt hipoteczny
+a mosaic,mozaika
 a mother-in-law,teściowa
 a mud,błoto
 a muscle,mięsień
@@ -314,6 +330,7 @@ a permission to stay,pozwolenie na pobyt
 a perverseness,upór
 a phase,faza
 a phenomenon,fenomen
+a photographer,fotograf
 a pickpocket,kieszonkowiec
 a piece of advice,rada
 a pile,stos
@@ -332,6 +349,7 @@ a pod,strąk
 a poet,poeta
 a point from,poza
 a poisoning,zatrucie
+a police station,posterunek policji
 a pond,staw (odny)
 a possession,posiadanie
 a post,post
@@ -340,6 +358,7 @@ a pre-chrismas fair,jarmark przedświąteczny
 a premiere,premiera
 a prenatal testing,badania prenatalne
 a pressure,nacisk
+a priest,kapłan
 a prince,książe (królewskiej krwi)
 a prize,nagroda
 a probation,staż
@@ -424,6 +443,7 @@ a sedative,środek uspokajający
 a semblance,podobieństwo
 a semicolon,średnik
 a series,seria
+a session,sesja
 a settler,osadnik
 a shelter,schron
 a shit storm,gównoburza
@@ -475,9 +495,12 @@ a surgery,chirurgia / operacja / pokój przyjęć
 a surprise,zaskoczenie
 a swallow,łyk
 a syringe,skrzykawka
+a system clipboard,systemowy schowek
+a tag,berek
 a tale,opowieść
 a tank,bak
 a tape,taśma
+a tax office,urząd skarbowy
 a tear,łza
 a teller,narrator
 a temple,świątynia
@@ -535,6 +558,7 @@ a village,wioska
 a voivode,wojewoda
 a vowel,samogłoska
 a vowel,samogłoska
+a vowel,samogłoska
 a wafer,opłatek
 a waiter,kelner
 a waitress,kelnerka
@@ -571,6 +595,7 @@ aluminum,aluminium
 am ara,epoka
 amount,ilość
 an accent,akcent
+an accountant,księgowa
 an achievement,osiągnięcie
 an addiction,uzależnienie
 an adhesion,przyczepność
@@ -602,6 +627,7 @@ an Easter egg,pisanka
 an eddy,wir 'Leaves whirled in eddies of winel'
 an elation,podniecenie
 an election silence,cisza wyborcza
+an electricity,elektryczność
 an element,żywioł
 an elevation,wzniesienie
 an elevator,winda
@@ -610,11 +636,13 @@ an embassy,ambasada
 an embroidery,wyszywanka
 an emergency,nagły wypadek
 an emergency,pogotowie / nagły wypadek
+an emperor,cesarz
 an envelope,koperta
 an equalizer,wyrównywacz
 an equity,kapitał
 an equivalent,ekwiwalent
 an evidence,dowód
+an excuse,wymówka
 an excuse,wymówka
 an exercise,ćwiczenie
 an exercise,ćwiczenie
@@ -637,6 +665,8 @@ an intercom,domofon
 an intuition,intuicja
 an invention,wynalazek
 an inventory,inwentarz
+an invoice,faktura
+an invoice VAT,faktura VAT
 an oak,dąb
 an occurrence,występowanie
 an offer,oferta
@@ -647,6 +677,7 @@ an order,zakon
 an order,ład
 an ostrich,struś
 an outbreak,wybuch
+an unemployment,bezrobocie
 an uprising,powstanie (zbrojne)
 an urine test,badanie moczu
 austria,Austria
@@ -691,6 +722,7 @@ nobility,magnateria
 November,listopad
 oat,owies
 permissions,uprawnienie
+Pomerania,pomorze
 Prussia,prusy
 quintuplets,pięcioraczki
 rare rocks,rzadkie skały
@@ -698,6 +730,7 @@ rows,wiosła
 sales,obroty
 salesman,sprzedawca
 seven Wonders of the World,siedem cudów świata
+south,południe
 south,południe
 Southern drawl,Wyciąg z południa / południowe cedzenie / południowy akcent
 Spain,Hiszpania
@@ -715,39 +748,6 @@ truffles,trufle
 Ukraine,Ukraina
 varieties,odmiany
 vegetables,warzywa
+Venice,wenecja
 vibrations,drgiania
 windshield washer fluid,płyn do spryskiwaczy
-a border,granica
-a burglary,włamanie
-a business apartment,mieszkanie służbowe
-a campus,kampus
-a chimney,komin
-a circulatory system,układ krwionośny
-a department,wydział
-a farmer,rolnik
-a geology,geologia
-a Jesuit,jezuici
-a ledger,księga główna / rejestr
-a lunette,luneta
-a mages tower,wieża magów
-a mosaic,mozaika
-a photographer,fotograf
-a police station,posterunek policji
-a priest,kapłan
-a session,sesja
-a tag,berek
-a tax office,urząd skarbowy
-a vowel,samogłoska
-an accountant,księgowa
-an electricity,elektryczność
-an emperor,cesarz
-an excuse,wymówka
-an invoice,faktura
-an invoice VAT,faktura VAT
-an unemployment,bezrobocie
-a centralization,centralizacja
-Pomerania,pomorze
-south,południe
-Venice,wenecja
-a system clipboard,systemowy schowek
-a finite number of students,skończona liczba studentów
