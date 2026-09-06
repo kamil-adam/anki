@@ -62,7 +62,6 @@
 
 天気; てんき| pogoda
 どんな| jakiego rodzaju
-今日; きょう| dziś
 
 晴れ; はれ| czysta pogoda
 曇り; くもり| chmury; pochmurnie
@@ -145,8 +144,6 @@
 叔母さん; おばさん| (Honorific) ciotka
 叔父 ; おじ| (Humble) wujek
 叔父さん ; おじさん| (Honorific) wuj
-
-昨日; きのう| wczoraj
 
 そう です ね | racja; masz rację; zgadzam się
 ところで | swoją drogą
@@ -596,3 +593,10 @@ Xの かいしゃ です| To firma robiąca X
 夕 食; ゆう しょく| kolacja wczesna (wczesne wieczorne jedzenie)
 晩 御飯; ばん ごはん| kolacja (wieczorny ryz)
 晩 食; ばん しょく| kolacja (wieczorne jedzenie)
+
+一昨日; おととい| przedwczoraj
+昨日; きのう| wczoraj
+今日; きょう| dziś
+明日; あした| jutro
+明後日; あさって| pojutrze
+毎日; まいにち| codziennie
